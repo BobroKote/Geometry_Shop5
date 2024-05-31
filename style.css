@@ -8,6 +8,12 @@ body {
     justify-content: right;
 }
 
+.KLK {
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+}
+
 h1 {
     font-size: 50px;
 }
@@ -34,13 +40,6 @@ nav {
     justify-content: center;
     padding-top: 50px;
 }
-
-div {
-    display: flex;
-    justify-content: space-around;
-    width: 700px;
-}
-
 .gg img {
     border: 20px double darkgreen;
 }
