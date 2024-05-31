@@ -1,0 +1,122 @@
+body {
+    font-family: Transforma Sans;
+    background-image: linear-gradient(rgb(104, 223, 253),#0EB277, rgb(33, 73, 202));
+}
+
+.ya {
+    display: flex;
+    justify-content: right;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(3, 100, 117);
+    border: 6px solid navy;
+    background-color: rgb(3, 178, 201);
+    margin: 40px;
+    border-radius: 25%;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: rgba(2, 238, 159, 0.671);
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+}
+
+.gg img {
+    border: 20px double darkgreen;
+}
+
+header p {
+    text-align: center;
+    font-size: 0px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.hola {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.hola img {
+    border: 7px solid green;
+}
+
+.soup img {
+    position: relative;
+    left: 70px;
+}
+
+.ssss {
+    border: 10px solid green;
+}
+
+.bro {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.bro img {
+    border: 7px solid green;
+}
+
+header {
+    background-color: #06D9E7;
+}
+
+main p {
+    text-align: left;
+    font-size: 25px;
+}
+
+main {
+    background-color: #0EB277;
+}
+
+footer {
+    background-color: #0750DE;
+}
+
+.gaga {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.hehe {
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.ya {
+    float: right;
+}
